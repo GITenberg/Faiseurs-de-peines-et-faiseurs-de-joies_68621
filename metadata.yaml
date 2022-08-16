@@ -1,0 +1,33 @@
+_repo: Faiseurs-de-peines-et-faiseurs-de-joies_68621
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Melegari, Dora
+    birthdate: 1849
+    deathdate: 1924
+    gutenberg_agent_id: '46829'
+    url: http://www.gutenberg.org/2009/agents/46829
+    wikipedia: https://en.wikipedia.org/wiki/Dora_Melegari
+description: ''
+gutenberg_issued: '2022-07-28'
+identifiers:
+  gutenberg: '68621'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k55751053
+pgterms:marc905: 20220108042031melegari
+pgterms:marc906: '1919'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: France :Fischbacher,1919.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Joy'
+- !lcc 'BJ'
+- !lcsh 'Grief'
+- GITenberg
+title: Faiseurs de peines et faiseurs de joies
+url: http://www.gutenberg.org/ebooks/68621
